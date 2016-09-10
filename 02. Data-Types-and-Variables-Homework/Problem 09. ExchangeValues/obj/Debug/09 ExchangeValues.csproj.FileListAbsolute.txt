@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\09 ExchangeValues\bin\Debug\09 ExchangeValues.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\09 ExchangeValues\bin\Debug\09 ExchangeValues.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\09 ExchangeValues\bin\Debug\09 ExchangeValues.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\09 ExchangeValues\obj\Debug\09 ExchangeValues.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\09 ExchangeValues\obj\Debug\09 ExchangeValues.pdb
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 9. ExchangeValues\bin\Debug\09 ExchangeValues.exe.config
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 9. ExchangeValues\obj\Debug\09 ExchangeValues.exe
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 9. ExchangeValues\obj\Debug\09 ExchangeValues.pdb

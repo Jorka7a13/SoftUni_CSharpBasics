@@ -1,0 +1,5 @@
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 18. NineDigitMagicNumbers\bin\Debug\18 NineDigitMagicNumbersTRYTWO.exe.config
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 18. NineDigitMagicNumbers\obj\Debug\18 NineDigitMagicNumbersTRYTWO.exe
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 18. NineDigitMagicNumbers\obj\Debug\18 NineDigitMagicNumbersTRYTWO.pdb
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 18. NineDigitMagicNumbers\bin\Debug\18 NineDigitMagicNumbersTRYTWO.exe
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 18. NineDigitMagicNumbers\bin\Debug\18 NineDigitMagicNumbersTRYTWO.pdb

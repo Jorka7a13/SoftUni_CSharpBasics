@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\13 ComparingFloats\bin\Debug\13 ComparingFloats.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\13 ComparingFloats\obj\Debug\13 ComparingFloats.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\13 ComparingFloats\bin\Debug\13 ComparingFloats.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\13 ComparingFloats\bin\Debug\13 ComparingFloats.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\13 ComparingFloats\obj\Debug\13 ComparingFloats.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\13 ComparingFloats\obj\Debug\13 ComparingFloats.pdb
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 13. ComparingFloats\bin\Debug\13 ComparingFloats.exe.config
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 13. ComparingFloats\obj\Debug\13 ComparingFloats.exe
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 13. ComparingFloats\obj\Debug\13 ComparingFloats.pdb

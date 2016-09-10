@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\17 Sunglasses\bin\Debug\17 Sunglasses.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\17 Sunglasses\bin\Debug\17 Sunglasses.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\17 Sunglasses\bin\Debug\17 Sunglasses.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\17 Sunglasses\obj\Debug\17 Sunglasses.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\17 Sunglasses\obj\Debug\17 Sunglasses.pdb
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 17. Sunglasses\bin\Debug\17 Sunglasses.exe.config
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 17. Sunglasses\obj\Debug\17 Sunglasses.exe
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 17. Sunglasses\obj\Debug\17 Sunglasses.pdb

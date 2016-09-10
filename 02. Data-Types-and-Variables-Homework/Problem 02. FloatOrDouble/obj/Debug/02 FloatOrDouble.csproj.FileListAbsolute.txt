@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\02 FloatOrDouble\bin\Debug\02 FloatOrDouble.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\02 FloatOrDouble\bin\Debug\02 FloatOrDouble.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\02 FloatOrDouble\bin\Debug\02 FloatOrDouble.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\02 FloatOrDouble\obj\Debug\02 FloatOrDouble.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\02 FloatOrDouble\obj\Debug\02 FloatOrDouble.pdb
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 2. FloatOrDouble\bin\Debug\02 FloatOrDouble.exe.config
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 2. FloatOrDouble\obj\Debug\02 FloatOrDouble.exe
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 2. FloatOrDouble\obj\Debug\02 FloatOrDouble.pdb

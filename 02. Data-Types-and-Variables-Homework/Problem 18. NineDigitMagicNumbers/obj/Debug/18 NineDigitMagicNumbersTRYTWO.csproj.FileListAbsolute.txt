@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\18 NineDigitMagicNumbersTRYTWO\bin\Debug\18 NineDigitMagicNumbersTRYTWO.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\18 NineDigitMagicNumbersTRYTWO\bin\Debug\18 NineDigitMagicNumbersTRYTWO.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\18 NineDigitMagicNumbersTRYTWO\bin\Debug\18 NineDigitMagicNumbersTRYTWO.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\18 NineDigitMagicNumbersTRYTWO\obj\Debug\18 NineDigitMagicNumbersTRYTWO.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\18 NineDigitMagicNumbersTRYTWO\obj\Debug\18 NineDigitMagicNumbersTRYTWO.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\18 NineDigitMagicNumbersTRYTWO\obj\Debug\18 NineDigitMagicNumbersTRYTWO.pdb

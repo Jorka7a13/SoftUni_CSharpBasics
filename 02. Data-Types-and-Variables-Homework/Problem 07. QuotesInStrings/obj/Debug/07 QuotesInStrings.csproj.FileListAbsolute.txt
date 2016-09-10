@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\07 QuotesInStrings\bin\Debug\07 QuotesInStrings.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\07 QuotesInStrings\bin\Debug\07 QuotesInStrings.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\07 QuotesInStrings\bin\Debug\07 QuotesInStrings.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\07 QuotesInStrings\obj\Debug\07 QuotesInStrings.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\07 QuotesInStrings\obj\Debug\07 QuotesInStrings.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\07 QuotesInStrings\obj\Debug\07 QuotesInStrings.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 7. QuotesInStrings\bin\Debug\07 QuotesInStrings.exe.config
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 7. QuotesInStrings\obj\Debug\07 QuotesInStrings.exe
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 7. QuotesInStrings\obj\Debug\07 QuotesInStrings.pdb

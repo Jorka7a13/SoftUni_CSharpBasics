@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\10 EmployeeData\bin\Debug\10 EmployeeData.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\10 EmployeeData\bin\Debug\10 EmployeeData.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\10 EmployeeData\bin\Debug\10 EmployeeData.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\10 EmployeeData\obj\Debug\10 EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\10 EmployeeData\obj\Debug\10 EmployeeData.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\10 EmployeeData\obj\Debug\10 EmployeeData.pdb
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 10. EmployeeData\bin\Debug\10 EmployeeData.exe.config
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 10. EmployeeData\obj\Debug\10 EmployeeData.exe
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 10. EmployeeData\obj\Debug\10 EmployeeData.pdb

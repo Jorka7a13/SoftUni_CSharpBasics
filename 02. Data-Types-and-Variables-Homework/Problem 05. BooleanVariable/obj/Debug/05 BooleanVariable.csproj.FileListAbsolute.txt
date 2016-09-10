@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\05 BooleanVariable\bin\Debug\05 BooleanVariable.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\05 BooleanVariable\bin\Debug\05 BooleanVariable.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\05 BooleanVariable\bin\Debug\05 BooleanVariable.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\05 BooleanVariable\obj\Debug\05 BooleanVariable.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\05 BooleanVariable\obj\Debug\05 BooleanVariable.pdb
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 5. BooleanVariable\bin\Debug\05 BooleanVariable.exe.config
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 5. BooleanVariable\obj\Debug\05 BooleanVariable.exe
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 5. BooleanVariable\obj\Debug\05 BooleanVariable.pdb

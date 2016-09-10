@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\04 UnicodeCharacter\bin\Debug\04 UnicodeCharacter.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\04 UnicodeCharacter\bin\Debug\04 UnicodeCharacter.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\04 UnicodeCharacter\bin\Debug\04 UnicodeCharacter.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\04 UnicodeCharacter\obj\Debug\04 UnicodeCharacter.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\04 UnicodeCharacter\obj\Debug\04 UnicodeCharacter.pdb
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 4. UnicodeCharacter\bin\Debug\04 UnicodeCharacter.exe.config
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 4. UnicodeCharacter\obj\Debug\04 UnicodeCharacter.exe
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 4. UnicodeCharacter\obj\Debug\04 UnicodeCharacter.pdb

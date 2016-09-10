@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 05. BooleanVariable\bin\Debug\05 BooleanVariable.exe.config
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 05. BooleanVariable\obj\Debug\05 BooleanVariable.exe
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 05. BooleanVariable\obj\Debug\05 BooleanVariable.pdb
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 05. BooleanVariable\bin\Debug\05 BooleanVariable.exe
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 05. BooleanVariable\bin\Debug\05 BooleanVariable.pdb
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 05. BooleanVariable\obj\Debug\Problem 05. BooleanVariable.csprojResolveAssemblyReference.cache

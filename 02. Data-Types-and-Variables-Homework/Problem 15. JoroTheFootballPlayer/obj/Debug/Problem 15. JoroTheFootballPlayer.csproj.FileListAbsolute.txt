@@ -1,0 +1,5 @@
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 15. JoroTheFootballPlayer\bin\Debug\15 JoroTheFootballPlayer.exe.config
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 15. JoroTheFootballPlayer\obj\Debug\15 JoroTheFootballPlayer.exe
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 15. JoroTheFootballPlayer\obj\Debug\15 JoroTheFootballPlayer.pdb
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 15. JoroTheFootballPlayer\bin\Debug\15 JoroTheFootballPlayer.exe
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 15. JoroTheFootballPlayer\bin\Debug\15 JoroTheFootballPlayer.pdb

@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\11 BankAccountData\bin\Debug\11 BankAccountData.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\11 BankAccountData\bin\Debug\11 BankAccountData.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\11 BankAccountData\bin\Debug\11 BankAccountData.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\11 BankAccountData\obj\Debug\11 BankAccountData.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\11 BankAccountData\obj\Debug\11 BankAccountData.pdb
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 11. BankAccountData\bin\Debug\11 BankAccountData.exe.config
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 11. BankAccountData\obj\Debug\11 BankAccountData.exe
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 11. BankAccountData\obj\Debug\11 BankAccountData.pdb

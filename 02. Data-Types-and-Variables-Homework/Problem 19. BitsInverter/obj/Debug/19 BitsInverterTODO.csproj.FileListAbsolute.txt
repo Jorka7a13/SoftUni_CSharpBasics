@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\19 BitsInverter\bin\Debug\19 BitsInverter.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\19 BitsInverter\obj\Debug\19 BitsInverterTODO.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\19 BitsInverter\bin\Debug\19 BitsInverter.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\19 BitsInverter\bin\Debug\19 BitsInverter.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\19 BitsInverter\obj\Debug\19 BitsInverter.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\19 BitsInverter\obj\Debug\19 BitsInverter.pdb

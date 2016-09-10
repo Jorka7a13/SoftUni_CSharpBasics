@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\14 PrintASCIITable\bin\Debug\14 PrintASCIITable.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\14 PrintASCIITable\bin\Debug\14 PrintASCIITable.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\14 PrintASCIITable\bin\Debug\14 PrintASCIITable.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\14 PrintASCIITable\obj\Debug\14 PrintASCIITable.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Data-Types-and-Variables-Homework\14 PrintASCIITable\obj\Debug\14 PrintASCIITable.pdb
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 14. PrintASCIITable\bin\Debug\14 PrintASCIITable.exe.config
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 14. PrintASCIITable\obj\Debug\14 PrintASCIITable.exe
+D:\GitHub\SoftUni_CSharpBasics\02. Data-Types-and-Variables-Homework\Problem 14. PrintASCIITable\obj\Debug\14 PrintASCIITable.pdb
