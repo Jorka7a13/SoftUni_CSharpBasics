@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\06. LongestAreaInArray\bin\Debug\_06.LongestAreaInArray.exe.config
+c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\06. LongestAreaInArray\bin\Debug\_06.LongestAreaInArray.exe
+c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\06. LongestAreaInArray\bin\Debug\_06.LongestAreaInArray.pdb
+c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\06. LongestAreaInArray\obj\Debug\06. LongestAreaInArray.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\06. LongestAreaInArray\obj\Debug\_06.LongestAreaInArray.exe
+c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\06. LongestAreaInArray\obj\Debug\_06.LongestAreaInArray.pdb
+D:\GitHub\SoftUni_CSharpBasics\07. CSharp-Advanced-Topics-Homework\Problem 06. LongestAreaInArray\bin\Debug\_06.LongestAreaInArray.exe.config
+D:\GitHub\SoftUni_CSharpBasics\07. CSharp-Advanced-Topics-Homework\Problem 06. LongestAreaInArray\obj\Debug\_06.LongestAreaInArray.exe
+D:\GitHub\SoftUni_CSharpBasics\07. CSharp-Advanced-Topics-Homework\Problem 06. LongestAreaInArray\obj\Debug\_06.LongestAreaInArray.pdb

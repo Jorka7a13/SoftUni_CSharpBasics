@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics-Homework\13. AverageLoadTimeCalc\bin\Debug\_13.AverageLoadTimeCalc.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics-Homework\13. AverageLoadTimeCalc\bin\Debug\_13.AverageLoadTimeCalc.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics-Homework\13. AverageLoadTimeCalc\bin\Debug\_13.AverageLoadTimeCalc.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics-Homework\13. AverageLoadTimeCalc\obj\Debug\13. AverageLoadTimeCalc.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics-Homework\13. AverageLoadTimeCalc\obj\Debug\_13.AverageLoadTimeCalc.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics-Homework\13. AverageLoadTimeCalc\obj\Debug\_13.AverageLoadTimeCalc.pdb
+D:\GitHub\SoftUni_CSharpBasics\07. CSharp-Advanced-Topics-Homework\Problem 13. AverageLoadTimeCalc\bin\Debug\_13.AverageLoadTimeCalc.exe.config
+D:\GitHub\SoftUni_CSharpBasics\07. CSharp-Advanced-Topics-Homework\Problem 13. AverageLoadTimeCalc\obj\Debug\_13.AverageLoadTimeCalc.exe
+D:\GitHub\SoftUni_CSharpBasics\07. CSharp-Advanced-Topics-Homework\Problem 13. AverageLoadTimeCalc\obj\Debug\_13.AverageLoadTimeCalc.pdb

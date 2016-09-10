@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\03. PrimesInGivenRange\bin\Debug\_03.PrimesInGivenRange.exe.config
+c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\03. PrimesInGivenRange\bin\Debug\_03.PrimesInGivenRange.exe
+c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\03. PrimesInGivenRange\bin\Debug\_03.PrimesInGivenRange.pdb
+c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\03. PrimesInGivenRange\obj\Debug\_03.PrimesInGivenRange.exe
+c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\03. PrimesInGivenRange\obj\Debug\_03.PrimesInGivenRange.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics-Homework\03. PrimesInGivenRange\obj\Debug\03. PrimesInGivenRange.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni_CSharpBasics\07. CSharp-Advanced-Topics-Homework\Problem 03. PrimesInGivenRange\bin\Debug\_03.PrimesInGivenRange.exe.config
+D:\GitHub\SoftUni_CSharpBasics\07. CSharp-Advanced-Topics-Homework\Problem 03. PrimesInGivenRange\obj\Debug\_03.PrimesInGivenRange.exe
+D:\GitHub\SoftUni_CSharpBasics\07. CSharp-Advanced-Topics-Homework\Problem 03. PrimesInGivenRange\obj\Debug\_03.PrimesInGivenRange.pdb

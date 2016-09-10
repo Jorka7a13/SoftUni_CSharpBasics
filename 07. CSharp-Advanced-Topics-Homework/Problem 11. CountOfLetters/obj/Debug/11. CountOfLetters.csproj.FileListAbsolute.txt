@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics-Homework\11. CountOfLetters\bin\Debug\_11.CountOfLetters.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics-Homework\11. CountOfLetters\bin\Debug\_11.CountOfLetters.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics-Homework\11. CountOfLetters\bin\Debug\_11.CountOfLetters.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics-Homework\11. CountOfLetters\obj\Debug\11. CountOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics-Homework\11. CountOfLetters\obj\Debug\_11.CountOfLetters.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics-Homework\11. CountOfLetters\obj\Debug\_11.CountOfLetters.pdb
+D:\GitHub\SoftUni_CSharpBasics\07. CSharp-Advanced-Topics-Homework\Problem 11. CountOfLetters\bin\Debug\_11.CountOfLetters.exe.config
+D:\GitHub\SoftUni_CSharpBasics\07. CSharp-Advanced-Topics-Homework\Problem 11. CountOfLetters\obj\Debug\_11.CountOfLetters.exe
+D:\GitHub\SoftUni_CSharpBasics\07. CSharp-Advanced-Topics-Homework\Problem 11. CountOfLetters\obj\Debug\_11.CountOfLetters.pdb
