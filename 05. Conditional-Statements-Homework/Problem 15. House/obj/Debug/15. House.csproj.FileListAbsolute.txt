@@ -1,0 +1,12 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\15. House\bin\Debug\_15.House.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\15. House\bin\Debug\_15.House.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\15. House\bin\Debug\_15.House.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\15. House\obj\Debug\15. House.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\15. House\obj\Debug\_15.House.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\15. House\obj\Debug\_15.House.pdb
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 15. House\bin\Debug\_15.House.exe.config
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 15. House\obj\Debug\_15.House.exe
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 15. House\obj\Debug\_15.House.pdb
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 15. House\bin\Debug\_15.House.exe
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 15. House\bin\Debug\_15.House.pdb
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 15. House\obj\Debug\15. House.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\16. MagicDates\bin\Debug\_16.MagicDates.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\16. MagicDates\bin\Debug\_16.MagicDates.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\16. MagicDates\bin\Debug\_16.MagicDates.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\16. MagicDates\obj\Debug\16. MagicDates.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\16. MagicDates\obj\Debug\_16.MagicDates.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\16. MagicDates\obj\Debug\_16.MagicDates.pdb
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 16. MagicDates\bin\Debug\_16.MagicDates.exe.config
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 16. MagicDates\obj\Debug\_16.MagicDates.exe
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 16. MagicDates\obj\Debug\_16.MagicDates.pdb

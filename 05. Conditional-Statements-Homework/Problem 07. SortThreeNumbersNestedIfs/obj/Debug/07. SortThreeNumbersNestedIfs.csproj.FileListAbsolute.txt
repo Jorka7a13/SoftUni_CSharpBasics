@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\07. SortThreeNumbersNestedIfs\bin\Debug\_07.SortThreeNumbersNestedIfs.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\07. SortThreeNumbersNestedIfs\bin\Debug\_07.SortThreeNumbersNestedIfs.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\07. SortThreeNumbersNestedIfs\bin\Debug\_07.SortThreeNumbersNestedIfs.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\07. SortThreeNumbersNestedIfs\obj\Debug\07. SortThreeNumbersNestedIfs.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\07. SortThreeNumbersNestedIfs\obj\Debug\_07.SortThreeNumbersNestedIfs.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\07. SortThreeNumbersNestedIfs\obj\Debug\_07.SortThreeNumbersNestedIfs.pdb
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 07. SortThreeNumbersNestedIfs\bin\Debug\_07.SortThreeNumbersNestedIfs.exe.config
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 07. SortThreeNumbersNestedIfs\obj\Debug\_07.SortThreeNumbersNestedIfs.exe
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 07. SortThreeNumbersNestedIfs\obj\Debug\_07.SortThreeNumbersNestedIfs.pdb

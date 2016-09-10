@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\14. Pairs\bin\Debug\_14.Pairs.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\14. Pairs\bin\Debug\_14.Pairs.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\14. Pairs\bin\Debug\_14.Pairs.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\14. Pairs\obj\Debug\14. Pairs.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\14. Pairs\obj\Debug\_14.Pairs.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\14. Pairs\obj\Debug\_14.Pairs.pdb
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 14. Pairs\bin\Debug\_14.Pairs.exe.config
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 14. Pairs\obj\Debug\_14.Pairs.exe
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 14. Pairs\obj\Debug\_14.Pairs.pdb

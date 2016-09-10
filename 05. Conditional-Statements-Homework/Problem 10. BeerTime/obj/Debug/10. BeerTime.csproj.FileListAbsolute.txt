@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\10. BeerTime\bin\Debug\_10.BeerTime.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\10. BeerTime\bin\Debug\_10.BeerTime.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\10. BeerTime\bin\Debug\_10.BeerTime.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\10. BeerTime\obj\Debug\_10.BeerTime.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\10. BeerTime\obj\Debug\_10.BeerTime.pdb
