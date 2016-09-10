@@ -1,0 +1,4 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\19. SpiralMatrix\bin\Debug\_19.SpiralMatrix.exe.config
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 19. SpiralMatrix\bin\Debug\_19.SpiralMatrix.exe.config
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 19. SpiralMatrix\obj\Debug\_19.SpiralMatrix.exe
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 19. SpiralMatrix\obj\Debug\_19.SpiralMatrix.pdb

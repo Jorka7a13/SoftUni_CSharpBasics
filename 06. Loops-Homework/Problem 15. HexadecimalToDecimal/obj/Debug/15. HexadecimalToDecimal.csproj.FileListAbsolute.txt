@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\15. HexadecimalToDecimal\bin\Debug\_15.HexadecimalToDecimal.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\15. HexadecimalToDecimal\bin\Debug\_15.HexadecimalToDecimal.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\15. HexadecimalToDecimal\bin\Debug\_15.HexadecimalToDecimal.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\15. HexadecimalToDecimal\obj\Debug\15. HexadecimalToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\15. HexadecimalToDecimal\obj\Debug\_15.HexadecimalToDecimal.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\15. HexadecimalToDecimal\obj\Debug\_15.HexadecimalToDecimal.pdb
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 15. HexadecimalToDecimal\bin\Debug\_15.HexadecimalToDecimal.exe.config
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 15. HexadecimalToDecimal\obj\Debug\_15.HexadecimalToDecimal.exe
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 15. HexadecimalToDecimal\obj\Debug\_15.HexadecimalToDecimal.pdb

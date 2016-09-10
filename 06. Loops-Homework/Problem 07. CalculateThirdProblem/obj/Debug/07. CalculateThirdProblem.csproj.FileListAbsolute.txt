@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\07. CalculateThirdProblem\bin\Debug\_07.CalculateThirdProblem.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\07. CalculateThirdProblem\bin\Debug\_07.CalculateThirdProblem.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\07. CalculateThirdProblem\bin\Debug\_07.CalculateThirdProblem.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\07. CalculateThirdProblem\obj\Debug\07. CalculateThirdProblem.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\07. CalculateThirdProblem\obj\Debug\_07.CalculateThirdProblem.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\07. CalculateThirdProblem\obj\Debug\_07.CalculateThirdProblem.pdb
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 07. CalculateThirdProblem\bin\Debug\_07.CalculateThirdProblem.exe.config
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 07. CalculateThirdProblem\obj\Debug\_07.CalculateThirdProblem.exe
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 07. CalculateThirdProblem\obj\Debug\_07.CalculateThirdProblem.pdb

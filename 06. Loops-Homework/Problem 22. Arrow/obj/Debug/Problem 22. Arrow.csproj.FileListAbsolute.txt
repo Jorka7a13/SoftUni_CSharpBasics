@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 22. Arrow\bin\Debug\_22.Arrow.exe.config
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 22. Arrow\obj\Debug\_22.Arrow.exe
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 22. Arrow\obj\Debug\_22.Arrow.pdb
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 22. Arrow\bin\Debug\_22.Arrow.exe
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 22. Arrow\bin\Debug\_22.Arrow.pdb
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 22. Arrow\obj\Debug\Problem 22. Arrow.csprojResolveAssemblyReference.cache

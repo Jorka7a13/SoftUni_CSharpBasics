@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\24. BitRoller\bin\Debug\_24.BitRoller.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\24. BitRoller\bin\Debug\_24.BitRoller.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\24. BitRoller\bin\Debug\_24.BitRoller.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\24. BitRoller\obj\Debug\24. BitRoller.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\24. BitRoller\obj\Debug\_24.BitRoller.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\24. BitRoller\obj\Debug\_24.BitRoller.pdb
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 24. BitRoller\bin\Debug\_24.BitRoller.exe.config
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 24. BitRoller\obj\Debug\_24.BitRoller.exe
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 24. BitRoller\obj\Debug\_24.BitRoller.pdb

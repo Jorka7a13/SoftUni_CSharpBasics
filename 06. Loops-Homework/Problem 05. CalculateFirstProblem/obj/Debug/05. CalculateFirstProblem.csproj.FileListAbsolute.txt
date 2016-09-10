@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\05. CalculateFirstProblem\bin\Debug\_05.CalculateFirstProblem.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\05. CalculateFirstProblem\bin\Debug\_05.CalculateFirstProblem.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\05. CalculateFirstProblem\bin\Debug\_05.CalculateFirstProblem.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\05. CalculateFirstProblem\obj\Debug\_05.CalculateFirstProblem.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\05. CalculateFirstProblem\obj\Debug\_05.CalculateFirstProblem.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\05. CalculateFirstProblem\obj\Debug\05. CalculateFirstProblem.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 05. CalculateFirstProblem\bin\Debug\_05.CalculateFirstProblem.exe.config
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 05. CalculateFirstProblem\obj\Debug\_05.CalculateFirstProblem.exe
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 05. CalculateFirstProblem\obj\Debug\_05.CalculateFirstProblem.pdb

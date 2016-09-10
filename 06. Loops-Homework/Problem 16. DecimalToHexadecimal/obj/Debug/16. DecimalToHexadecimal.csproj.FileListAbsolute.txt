@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\16. DecimalToHexadecimal\bin\Debug\_16.DecimalToHexadecimal.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\16. DecimalToHexadecimal\bin\Debug\_16.DecimalToHexadecimal.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\16. DecimalToHexadecimal\bin\Debug\_16.DecimalToHexadecimal.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\16. DecimalToHexadecimal\obj\Debug\16. DecimalToHexadecimal.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\16. DecimalToHexadecimal\obj\Debug\_16.DecimalToHexadecimal.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\16. DecimalToHexadecimal\obj\Debug\_16.DecimalToHexadecimal.pdb
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 16. DecimalToHexadecimal\bin\Debug\_16.DecimalToHexadecimal.exe.config
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 16. DecimalToHexadecimal\obj\Debug\_16.DecimalToHexadecimal.exe
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 16. DecimalToHexadecimal\obj\Debug\_16.DecimalToHexadecimal.pdb

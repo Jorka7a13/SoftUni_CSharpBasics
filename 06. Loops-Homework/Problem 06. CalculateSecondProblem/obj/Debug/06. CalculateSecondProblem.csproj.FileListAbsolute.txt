@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\06. CalculateSecondProblem\bin\Debug\_06.CalculateSecondProblem.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\06. CalculateSecondProblem\bin\Debug\_06.CalculateSecondProblem.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\06. CalculateSecondProblem\bin\Debug\_06.CalculateSecondProblem.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\06. CalculateSecondProblem\obj\Debug\_06.CalculateSecondProblem.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\06. CalculateSecondProblem\obj\Debug\_06.CalculateSecondProblem.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\06. CalculateSecondProblem\obj\Debug\06. CalculateSecondProblem.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 06. CalculateSecondProblem\bin\Debug\_06.CalculateSecondProblem.exe.config
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 06. CalculateSecondProblem\obj\Debug\_06.CalculateSecondProblem.exe
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 06. CalculateSecondProblem\obj\Debug\_06.CalculateSecondProblem.pdb

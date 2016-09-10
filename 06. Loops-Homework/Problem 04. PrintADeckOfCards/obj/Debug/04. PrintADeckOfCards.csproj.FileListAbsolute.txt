@@ -1,0 +1,12 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\04. PrintADeckOfCards\bin\Debug\_04.PrintADeckOfCards.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\04. PrintADeckOfCards\bin\Debug\_04.PrintADeckOfCards.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\04. PrintADeckOfCards\bin\Debug\_04.PrintADeckOfCards.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\04. PrintADeckOfCards\obj\Debug\04. PrintADeckOfCards.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\04. PrintADeckOfCards\obj\Debug\_04.PrintADeckOfCards.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\04. PrintADeckOfCards\obj\Debug\_04.PrintADeckOfCards.pdb
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 04. PrintADeckOfCards\bin\Debug\_04.PrintADeckOfCards.exe.config
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 04. PrintADeckOfCards\obj\Debug\_04.PrintADeckOfCards.exe
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 04. PrintADeckOfCards\obj\Debug\_04.PrintADeckOfCards.pdb
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 04. PrintADeckOfCards\bin\Debug\_04.PrintADeckOfCards.exe
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 04. PrintADeckOfCards\bin\Debug\_04.PrintADeckOfCards.pdb
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 04. PrintADeckOfCards\obj\Debug\04. PrintADeckOfCards.csprojResolveAssemblyReference.cache

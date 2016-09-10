@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\20. ExamSchedule\bin\Debug\_20.ExamSchedule.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\20. ExamSchedule\bin\Debug\_20.ExamSchedule.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\20. ExamSchedule\bin\Debug\_20.ExamSchedule.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\20. ExamSchedule\obj\Debug\20. ExamSchedule.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\20. ExamSchedule\obj\Debug\_20.ExamSchedule.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\20. ExamSchedule\obj\Debug\_20.ExamSchedule.pdb
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 20. ExamSchedule\bin\Debug\_20.ExamSchedule.exe.config
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 20. ExamSchedule\obj\Debug\_20.ExamSchedule.exe
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 20. ExamSchedule\obj\Debug\_20.ExamSchedule.pdb

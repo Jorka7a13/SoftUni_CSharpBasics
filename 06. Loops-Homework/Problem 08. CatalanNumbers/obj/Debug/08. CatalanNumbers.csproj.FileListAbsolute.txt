@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\08. CatalanNumbers\bin\Debug\_08.CatalanNumbers.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\08. CatalanNumbers\bin\Debug\_08.CatalanNumbers.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\08. CatalanNumbers\bin\Debug\_08.CatalanNumbers.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\08. CatalanNumbers\obj\Debug\_08.CatalanNumbers.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\08. CatalanNumbers\obj\Debug\_08.CatalanNumbers.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\08. CatalanNumbers\obj\Debug\08. CatalanNumbers.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 08. CatalanNumbers\bin\Debug\_08.CatalanNumbers.exe.config
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 08. CatalanNumbers\obj\Debug\_08.CatalanNumbers.exe
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 08. CatalanNumbers\obj\Debug\_08.CatalanNumbers.pdb

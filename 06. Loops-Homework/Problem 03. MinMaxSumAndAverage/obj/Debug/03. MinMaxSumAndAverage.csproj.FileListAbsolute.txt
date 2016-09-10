@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\Loops-Homework\03. MinMaxSumAndAverage\bin\Debug\_03.MinMaxSumAndAverage.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\03. MinMaxSumAndAverage\bin\Debug\_03.MinMaxSumAndAverage.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\03. MinMaxSumAndAverage\bin\Debug\_03.MinMaxSumAndAverage.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\03. MinMaxSumAndAverage\obj\Debug\03. MinMaxSumAndAverage.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\03. MinMaxSumAndAverage\obj\Debug\_03.MinMaxSumAndAverage.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\03. MinMaxSumAndAverage\obj\Debug\_03.MinMaxSumAndAverage.pdb
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 03. MinMaxSumAndAverage\bin\Debug\_03.MinMaxSumAndAverage.exe.config
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 03. MinMaxSumAndAverage\obj\Debug\_03.MinMaxSumAndAverage.exe
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 03. MinMaxSumAndAverage\obj\Debug\_03.MinMaxSumAndAverage.pdb

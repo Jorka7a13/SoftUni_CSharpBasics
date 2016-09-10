@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\18. TrailingZeroesInFactorial\bin\Debug\_18.TrailingZeroesInFactorial.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\18. TrailingZeroesInFactorial\bin\Debug\_18.TrailingZeroesInFactorial.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\18. TrailingZeroesInFactorial\bin\Debug\_18.TrailingZeroesInFactorial.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\18. TrailingZeroesInFactorial\obj\Debug\18. TrailingZeroesInFactorial.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\18. TrailingZeroesInFactorial\obj\Debug\_18.TrailingZeroesInFactorial.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\18. TrailingZeroesInFactorial\obj\Debug\_18.TrailingZeroesInFactorial.pdb
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 18. TrailingZeroesInFactorial\bin\Debug\_18.TrailingZeroesInFactorial.exe.config
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 18. TrailingZeroesInFactorial\obj\Debug\_18.TrailingZeroesInFactorial.exe
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 18. TrailingZeroesInFactorial\obj\Debug\_18.TrailingZeroesInFactorial.pdb

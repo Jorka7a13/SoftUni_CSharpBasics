@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\13. BinaryToDecimal\bin\Debug\_13.BinaryToDecimal.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\13. BinaryToDecimal\bin\Debug\_13.BinaryToDecimal.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\13. BinaryToDecimal\bin\Debug\_13.BinaryToDecimal.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\13. BinaryToDecimal\obj\Debug\13. BinaryToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\13. BinaryToDecimal\obj\Debug\_13.BinaryToDecimal.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Loops-Homework\13. BinaryToDecimal\obj\Debug\_13.BinaryToDecimal.pdb
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 13. BinaryToDecimal\bin\Debug\_13.BinaryToDecimal.exe.config
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 13. BinaryToDecimal\obj\Debug\_13.BinaryToDecimal.exe
+D:\GitHub\SoftUni_CSharpBasics\06. Loops-Homework\Problem 13. BinaryToDecimal\obj\Debug\_13.BinaryToDecimal.pdb
