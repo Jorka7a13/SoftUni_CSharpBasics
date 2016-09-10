@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\15. NewHouse\bin\Debug\_15.NewHouse.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\15. NewHouse\bin\Debug\_15.NewHouse.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\15. NewHouse\bin\Debug\_15.NewHouse.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\15. NewHouse\obj\Debug\15. NewHouse.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\15. NewHouse\obj\Debug\_15.NewHouse.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\15. NewHouse\obj\Debug\_15.NewHouse.pdb
+D:\GitHub\SoftUni_CSharpBasics\04. Console-Input-Output-Homework\Problem 15. NewHouse\bin\Debug\_15.NewHouse.exe.config
+D:\GitHub\SoftUni_CSharpBasics\04. Console-Input-Output-Homework\Problem 15. NewHouse\obj\Debug\_15.NewHouse.exe
+D:\GitHub\SoftUni_CSharpBasics\04. Console-Input-Output-Homework\Problem 15. NewHouse\obj\Debug\_15.NewHouse.pdb

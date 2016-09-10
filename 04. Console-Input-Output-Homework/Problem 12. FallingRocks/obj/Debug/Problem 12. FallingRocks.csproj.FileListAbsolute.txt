@@ -1,0 +1,5 @@
+D:\GitHub\SoftUni_CSharpBasics\04. Console-Input-Output-Homework\Problem 12. FallingRocks\bin\Debug\_12.FallingRocks.exe.config
+D:\GitHub\SoftUni_CSharpBasics\04. Console-Input-Output-Homework\Problem 12. FallingRocks\obj\Debug\_12.FallingRocks.exe
+D:\GitHub\SoftUni_CSharpBasics\04. Console-Input-Output-Homework\Problem 12. FallingRocks\obj\Debug\_12.FallingRocks.pdb
+D:\GitHub\SoftUni_CSharpBasics\04. Console-Input-Output-Homework\Problem 12. FallingRocks\bin\Debug\_12.FallingRocks.exe
+D:\GitHub\SoftUni_CSharpBasics\04. Console-Input-Output-Homework\Problem 12. FallingRocks\bin\Debug\_12.FallingRocks.pdb

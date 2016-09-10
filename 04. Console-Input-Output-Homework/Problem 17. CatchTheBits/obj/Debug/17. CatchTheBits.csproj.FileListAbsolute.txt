@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\17. CatchTheBits\bin\Debug\_17.CatchTheBits.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\17. CatchTheBits\bin\Debug\_17.CatchTheBits.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\17. CatchTheBits\bin\Debug\_17.CatchTheBits.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\17. CatchTheBits\obj\Debug\17. CatchTheBits.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\17. CatchTheBits\obj\Debug\_17.CatchTheBits.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\17. CatchTheBits\obj\Debug\_17.CatchTheBits.pdb
+D:\GitHub\SoftUni_CSharpBasics\04. Console-Input-Output-Homework\Problem 17. CatchTheBits\bin\Debug\_17.CatchTheBits.exe.config
+D:\GitHub\SoftUni_CSharpBasics\04. Console-Input-Output-Homework\Problem 17. CatchTheBits\obj\Debug\_17.CatchTheBits.exe
+D:\GitHub\SoftUni_CSharpBasics\04. Console-Input-Output-Homework\Problem 17. CatchTheBits\obj\Debug\_17.CatchTheBits.pdb
