@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintLongSequence\obj\Debug\PrintLongSequence.pdb
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 16. PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 16. PrintLongSequence\obj\Debug\PrintLongSequence.exe
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 16. PrintLongSequence\obj\Debug\PrintLongSequence.pdb

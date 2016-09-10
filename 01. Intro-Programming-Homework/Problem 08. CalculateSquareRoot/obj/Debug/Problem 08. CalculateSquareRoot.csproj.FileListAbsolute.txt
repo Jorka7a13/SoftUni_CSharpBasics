@@ -1,0 +1,9 @@
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 8. CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe.config
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 8. CalculateSquareRoot\obj\Debug\CalculateSquareRoot.exe
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 8. CalculateSquareRoot\obj\Debug\CalculateSquareRoot.pdb
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 08. CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe.config
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 08. CalculateSquareRoot\obj\Debug\CalculateSquareRoot.exe
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 08. CalculateSquareRoot\obj\Debug\CalculateSquareRoot.pdb
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 08. CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 08. CalculateSquareRoot\bin\Debug\CalculateSquareRoot.pdb
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 08. CalculateSquareRoot\obj\Debug\Problem 08. CalculateSquareRoot.csprojResolveAssemblyReference.cache

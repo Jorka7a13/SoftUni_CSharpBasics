@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ReformatSampleCode\bin\Debug\ReformatSampleCode.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ReformatSampleCode\bin\Debug\ReformatSampleCode.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ReformatSampleCode\bin\Debug\ReformatSampleCode.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ReformatSampleCode\obj\Debug\ReformatSampleCode.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ReformatSampleCode\obj\Debug\ReformatSampleCode.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ReformatSampleCode\obj\Debug\ReformatSampleCode.pdb

@@ -1,0 +1,21 @@
+1.Eclipse
+Eclipse allows the use of many languages, but it's primary used for Java development. 
+By means of various plug-ins, Eclipse may also be used to develop applications in other 
+languages like C, C++, JavaScript, Perl, PHP, Prolog, Python, Ruby and many more, 
+besides being the number one way to develop Android applications via the Android SDK.
+
+2.NetBeans
+NetBeans is an integrated development environment for developing primarily with Java, 
+but also with other languages, in particular PHP, C/C++, and HTML5. The NetBeans Platform 
+allows applications to be developed from a set of modular software components.
+
+3.Xcode
+Xcode is an IDE containing a suite of software development tools developed by Apple 
+for developing software for OS X and iOS.
+
+4.Code::Blocks 
+Code::Blocks is a free and open source, cross-platform IDE. It supports multiple compilers 
+including GCC and Visual C++. It is oriented towards C, C++, and Fortran development.
+
+5.Dev-C++
+Dev-C++ is used for programming in C and C++. It runs only on Windows.

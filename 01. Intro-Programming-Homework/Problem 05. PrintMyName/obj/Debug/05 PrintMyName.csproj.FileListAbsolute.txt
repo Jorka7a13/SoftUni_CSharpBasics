@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.pdb
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 5. PrintMyName\bin\Debug\PrintMyName.exe.config
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 5. PrintMyName\obj\Debug\PrintMyName.exe
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 5. PrintMyName\obj\Debug\PrintMyName.pdb

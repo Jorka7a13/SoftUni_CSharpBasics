@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.pdb
+C:\Users\user\Desktop\Intro-Programming-Homework\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe.config
+C:\Users\user\Desktop\Intro-Programming-Homework\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.exe
+C:\Users\user\Desktop\Intro-Programming-Homework\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.pdb
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 8. CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe.config
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 8. CalculateSquareRoot\obj\Debug\CalculateSquareRoot.exe
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 8. CalculateSquareRoot\obj\Debug\CalculateSquareRoot.pdb

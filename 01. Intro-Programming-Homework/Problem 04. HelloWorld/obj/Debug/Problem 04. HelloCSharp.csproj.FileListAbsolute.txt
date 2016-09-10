@@ -1,0 +1,9 @@
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 4. HelloWorld\bin\Debug\HelloCSharp.exe.config
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 4. HelloWorld\obj\Debug\HelloCSharp.exe
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 4. HelloWorld\obj\Debug\HelloCSharp.pdb
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 4. HelloWorld\bin\Debug\HelloCSharp.exe
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 4. HelloWorld\bin\Debug\HelloCSharp.pdb
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 4. HelloWorld\obj\Debug\Problem 04. HelloCSharp.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 04. HelloWorld\bin\Debug\HelloCSharp.exe.config
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 04. HelloWorld\obj\Debug\HelloCSharp.exe
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 04. HelloWorld\obj\Debug\HelloCSharp.pdb

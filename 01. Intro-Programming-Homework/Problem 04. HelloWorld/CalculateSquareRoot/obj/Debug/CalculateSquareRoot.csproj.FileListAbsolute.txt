@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\HelloWorld\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe.config
+c:\users\user\documents\visual studio 2013\Projects\HelloWorld\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe
+c:\users\user\documents\visual studio 2013\Projects\HelloWorld\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.pdb
+c:\users\user\documents\visual studio 2013\Projects\HelloWorld\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.exe
+c:\users\user\documents\visual studio 2013\Projects\HelloWorld\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.pdb

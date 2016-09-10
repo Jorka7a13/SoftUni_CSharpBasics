@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\AgeAfter\bin\Debug\AgeAfter.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\AgeAfter\obj\Debug\AgeAfter.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\AgeAfter\obj\Debug\AgeAfter.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\AgeAfter\bin\Debug\AgeAfter.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\AgeAfter\bin\Debug\AgeAfter.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\AgeAfter\obj\Debug\15 AgeAfterTenYears.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 15. AgeAfterTenYears\bin\Debug\AgeAfter.exe.config
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 15. AgeAfterTenYears\obj\Debug\AgeAfter.exe
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 15. AgeAfterTenYears\obj\Debug\AgeAfter.pdb

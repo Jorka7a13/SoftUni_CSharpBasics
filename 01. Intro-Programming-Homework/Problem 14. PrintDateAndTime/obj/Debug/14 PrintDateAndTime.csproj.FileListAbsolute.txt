@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintDateAndTime\bin\Debug\PrintDateAndTime.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintDateAndTime\obj\Debug\PrintDateAndTime.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintDateAndTime\obj\Debug\PrintDateAndTime.pdb
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 14. PrintDateAndTime\bin\Debug\PrintDateAndTime.exe.config
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 14. PrintDateAndTime\obj\Debug\PrintDateAndTime.exe
+D:\GitHub\SoftUni_CSharpBasics\01. Intro-Programming-Homework\Problem 14. PrintDateAndTime\obj\Debug\PrintDateAndTime.pdb

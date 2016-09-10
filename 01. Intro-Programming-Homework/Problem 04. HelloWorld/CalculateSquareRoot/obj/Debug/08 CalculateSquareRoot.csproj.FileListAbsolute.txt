@@ -1,0 +1,3 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.pdb

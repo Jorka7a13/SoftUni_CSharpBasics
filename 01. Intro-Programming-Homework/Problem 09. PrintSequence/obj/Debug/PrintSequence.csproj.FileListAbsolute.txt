@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\HelloWorld\PrintSequence\bin\Debug\PrintSequence.exe.config
+c:\users\user\documents\visual studio 2013\Projects\HelloWorld\PrintSequence\bin\Debug\PrintSequence.exe
+c:\users\user\documents\visual studio 2013\Projects\HelloWorld\PrintSequence\bin\Debug\PrintSequence.pdb
+c:\users\user\documents\visual studio 2013\Projects\HelloWorld\PrintSequence\obj\Debug\PrintSequence.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\HelloWorld\PrintSequence\obj\Debug\PrintSequence.exe
+c:\users\user\documents\visual studio 2013\Projects\HelloWorld\PrintSequence\obj\Debug\PrintSequence.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb

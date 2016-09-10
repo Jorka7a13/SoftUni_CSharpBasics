@@ -1,0 +1,28 @@
+1.Java
+Like C#, Java is class-based, object-oriented computer programming language.
+It is specifically designed to have as few implementation dependencies as possible, 
+meaning that code that runs on one platform does not need to be recompiled to run on another. 
+It's used particularly for client-server web applications.
+
+2.C++
+C++ is imperative, object-oriented and generic programming language.
+Unlike C#, C++ is designed primary for systems programming like embedded systems and kernels.
+
+3.PHP
+PHP is a server-side scripting language designed for web development, although 
+it is also used as a general-purpose programming language. PHP code can be simply mixed with 
+HTML code. It is usually processed by a PHP interpreter.
+
+4.JavaScript
+JavaScript is a dynamic scripting computer programming language with dynamic typing. It is 
+most commonly used as part of web browsers but also in server-side network programming, 
+game development and the creation of desktop and mobile applications.
+
+5.Objective-C
+Objective-C is a general-purpose, object-oriented programming language. It adds Smalltalk-style 
+messaging to the C programming language. Objective-C is the main programming language 
+used for the OS X and iOS development.
+
+6.Python
+Python is a widely used general-purpose, high-level programming language. It emphasizes code readability, 
+and its syntax allows programmers to express concepts in fewer lines of code than other languages.

@@ -1,0 +1,3 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintDateAndTime\bin\Debug\PrintDateAndTime.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintDateAndTime\obj\Debug\PrintDateAndTime.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintDateAndTime\obj\Debug\PrintDateAndTime.pdb
