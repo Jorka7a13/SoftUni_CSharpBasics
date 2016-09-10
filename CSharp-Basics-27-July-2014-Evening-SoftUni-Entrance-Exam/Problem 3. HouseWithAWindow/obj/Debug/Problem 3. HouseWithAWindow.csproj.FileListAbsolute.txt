@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 3. HouseWithAWindow\bin\Debug\_03.HouseWithAWindow.exe.config
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 3. HouseWithAWindow\obj\Debug\_03.HouseWithAWindow.exe
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 3. HouseWithAWindow\obj\Debug\_03.HouseWithAWindow.pdb
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 3. HouseWithAWindow\bin\Debug\_03.HouseWithAWindow.exe
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 3. HouseWithAWindow\bin\Debug\_03.HouseWithAWindow.pdb
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 3. HouseWithAWindow\obj\Debug\Problem 3. HouseWithAWindow.csprojResolveAssemblyReference.cache

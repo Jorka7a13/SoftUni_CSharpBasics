@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Exam-SoftUni-27-July-2014-Evening\04. NakovsMatching\bin\Debug\_04.NakovsMatching.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Exam-SoftUni-27-July-2014-Evening\04. NakovsMatching\bin\Debug\_04.NakovsMatching.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Exam-SoftUni-27-July-2014-Evening\04. NakovsMatching\bin\Debug\_04.NakovsMatching.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Exam-SoftUni-27-July-2014-Evening\04. NakovsMatching\obj\Debug\_04.NakovsMatching.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Exam-SoftUni-27-July-2014-Evening\04. NakovsMatching\obj\Debug\_04.NakovsMatching.pdb
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\04. NakovsMatching\bin\Debug\_04.NakovsMatching.exe.config
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\04. NakovsMatching\obj\Debug\_04.NakovsMatching.exe
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\04. NakovsMatching\obj\Debug\_04.NakovsMatching.pdb
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 4. NakovsMatching\bin\Debug\_04.NakovsMatching.exe.config
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 4. NakovsMatching\obj\Debug\_04.NakovsMatching.exe
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 4. NakovsMatching\obj\Debug\_04.NakovsMatching.pdb

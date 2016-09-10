@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Exam-SoftUni-27-July-2014-Evening\Problem 1\bin\Debug\Problem 1.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Exam-SoftUni-27-July-2014-Evening\Problem 1\bin\Debug\Problem 1.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Exam-SoftUni-27-July-2014-Evening\Problem 1\bin\Debug\Problem 1.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Exam-SoftUni-27-July-2014-Evening\Problem 1\obj\Debug\Problem 1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Exam-SoftUni-27-July-2014-Evening\Problem 1\obj\Debug\Problem 1.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Exam-SoftUni-27-July-2014-Evening\Problem 1\obj\Debug\Problem 1.pdb

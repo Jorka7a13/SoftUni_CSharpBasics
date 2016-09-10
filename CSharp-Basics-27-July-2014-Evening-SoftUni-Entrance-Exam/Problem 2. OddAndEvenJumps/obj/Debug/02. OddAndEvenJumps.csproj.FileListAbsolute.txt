@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Exam-SoftUni-27-July-2014-Evening\02. OddAndEvenJumps\bin\Debug\_02.OddAndEvenJumps.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Exam-SoftUni-27-July-2014-Evening\02. OddAndEvenJumps\bin\Debug\_02.OddAndEvenJumps.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Exam-SoftUni-27-July-2014-Evening\02. OddAndEvenJumps\bin\Debug\_02.OddAndEvenJumps.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Exam-SoftUni-27-July-2014-Evening\02. OddAndEvenJumps\obj\Debug\_02.OddAndEvenJumps.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Exam-SoftUni-27-July-2014-Evening\02. OddAndEvenJumps\obj\Debug\_02.OddAndEvenJumps.pdb
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 2. OddAndEvenJumps\bin\Debug\_02.OddAndEvenJumps.exe.config
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 2. OddAndEvenJumps\obj\Debug\_02.OddAndEvenJumps.exe
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 2. OddAndEvenJumps\obj\Debug\_02.OddAndEvenJumps.pdb
