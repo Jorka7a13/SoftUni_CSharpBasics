@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\01. OddOrEvenIntegers\bin\Debug\_01.OddOrEvenIntegers.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\01. OddOrEvenIntegers\bin\Debug\_01.OddOrEvenIntegers.exe
+c:\users\user\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\01. OddOrEvenIntegers\bin\Debug\_01.OddOrEvenIntegers.pdb
+c:\users\user\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\01. OddOrEvenIntegers\obj\Debug\01. OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\01. OddOrEvenIntegers\obj\Debug\_01.OddOrEvenIntegers.exe
+c:\users\user\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\01. OddOrEvenIntegers\obj\Debug\_01.OddOrEvenIntegers.pdb
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 01. OddOrEvenIntegers\bin\Debug\_01.OddOrEvenIntegers.exe.config
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 01. OddOrEvenIntegers\obj\Debug\_01.OddOrEvenIntegers.exe
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 01. OddOrEvenIntegers\obj\Debug\_01.OddOrEvenIntegers.pdb
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 01. OddOrEvenIntegers\bin\Debug\_01.OddOrEvenIntegers.exe
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 01. OddOrEvenIntegers\bin\Debug\_01.OddOrEvenIntegers.pdb
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 01. OddOrEvenIntegers\obj\Debug\01. OddOrEvenIntegers.csprojResolveAssemblyReference.cache

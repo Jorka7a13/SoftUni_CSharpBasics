@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\09. Trapezoids\bin\Debug\_09.Trapezoids.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\09. Trapezoids\bin\Debug\_09.Trapezoids.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\09. Trapezoids\bin\Debug\_09.Trapezoids.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\09. Trapezoids\obj\Debug\_09.Trapezoids.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\09. Trapezoids\obj\Debug\_09.Trapezoids.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\09. Trapezoids\obj\Debug\09. Trapezoids.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 09. Trapezoids\bin\Debug\_09.Trapezoids.exe.config
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 09. Trapezoids\obj\Debug\_09.Trapezoids.exe
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 09. Trapezoids\obj\Debug\_09.Trapezoids.pdb

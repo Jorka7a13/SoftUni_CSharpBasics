@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\08. PrimeNumberCheck\bin\Debug\_08.PrimeNumberCheck.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\08. PrimeNumberCheck\bin\Debug\_08.PrimeNumberCheck.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\08. PrimeNumberCheck\bin\Debug\_08.PrimeNumberCheck.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\08. PrimeNumberCheck\obj\Debug\08. PrimeNumberCheck.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\08. PrimeNumberCheck\obj\Debug\_08.PrimeNumberCheck.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\08. PrimeNumberCheck\obj\Debug\_08.PrimeNumberCheck.pdb
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 08. PrimeNumberCheck\bin\Debug\_08.PrimeNumberCheck.exe.config
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 08. PrimeNumberCheck\obj\Debug\_08.PrimeNumberCheck.exe
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 08. PrimeNumberCheck\obj\Debug\_08.PrimeNumberCheck.pdb

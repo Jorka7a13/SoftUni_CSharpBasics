@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\10. PointInsideCircleAndOutsideRectangle\bin\Debug\_10.PointInsideCircleAndOutsideRectangle.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\10. PointInsideCircleAndOutsideRectangle\bin\Debug\_10.PointInsideCircleAndOutsideRectangle.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\10. PointInsideCircleAndOutsideRectangle\bin\Debug\_10.PointInsideCircleAndOutsideRectangle.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\10. PointInsideCircleAndOutsideRectangle\obj\Debug\10. PointInsideCircleAndOutsideRectangle.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\10. PointInsideCircleAndOutsideRectangle\obj\Debug\_10.PointInsideCircleAndOutsideRectangle.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\10. PointInsideCircleAndOutsideRectangle\obj\Debug\_10.PointInsideCircleAndOutsideRectangle.pdb
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 10. PointInsideCircleAndOutsideRectangle\bin\Debug\_10.PointInsideCircleAndOutsideRectangle.exe.config
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 10. PointInsideCircleAndOutsideRectangle\obj\Debug\_10.PointInsideCircleAndOutsideRectangle.exe
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 10. PointInsideCircleAndOutsideRectangle\obj\Debug\_10.PointInsideCircleAndOutsideRectangle.pdb

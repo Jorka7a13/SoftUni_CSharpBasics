@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\06. FourDigitNumber\obj\Debug\06. FourDigitNumber.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.exe.config
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.exe
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.pdb

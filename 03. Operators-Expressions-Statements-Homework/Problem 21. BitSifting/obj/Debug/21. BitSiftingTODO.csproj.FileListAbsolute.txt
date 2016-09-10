@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\21. BitSifting\bin\Debug\_21.BitSifting.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\21. BitSifting\obj\Debug\_21.BitSifting.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\21. BitSifting\obj\Debug\_21.BitSifting.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\21. BitSifting\bin\Debug\_21.BitSifting.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\21. BitSifting\bin\Debug\_21.BitSifting.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\21. BitSifting\obj\Debug\21. BitSiftingTODO.csprojResolveAssemblyReference.cache

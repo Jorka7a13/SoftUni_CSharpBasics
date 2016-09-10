@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 19. TheExplorer\bin\Debug\_19.TheExplorer.exe.config
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 19. TheExplorer\obj\Debug\_19.TheExplorer.exe
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 19. TheExplorer\obj\Debug\_19.TheExplorer.pdb
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 19. TheExplorer\bin\Debug\_19.TheExplorer.exe
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 19. TheExplorer\bin\Debug\_19.TheExplorer.pdb
+D:\GitHub\SoftUni_CSharpBasics\03. Operators-Expressions-Statements-Homework\Problem 19. TheExplorer\obj\Debug\Problem 19. TheExplorer.csprojResolveAssemblyReference.cache
