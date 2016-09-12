@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 1. Electricity\bin\Debug\Problem 1.exe.config
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 1. Electricity\obj\Debug\Problem 1.exe
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 1. Electricity\obj\Debug\Problem 1.pdb
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 01. Electricity\bin\Debug\Problem 1.exe.config
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 01. Electricity\obj\Debug\Problem 1.exe
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 01. Electricity\obj\Debug\Problem 1.pdb

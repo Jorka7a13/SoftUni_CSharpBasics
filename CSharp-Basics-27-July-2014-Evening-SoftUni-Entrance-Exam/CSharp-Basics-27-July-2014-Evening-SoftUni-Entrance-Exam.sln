@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Electricity", "Problem 1. Electricity\Problem 1. Electricity.csproj", "{E7F52785-FB7A-4F98-8CCD-3918D05E1585}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 01. Electricity", "Problem 01. Electricity\Problem 01. Electricity.csproj", "{E7F52785-FB7A-4F98-8CCD-3918D05E1585}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. OddAndEvenJumps", "Problem 2. OddAndEvenJumps\Problem 2. OddAndEvenJumps.csproj", "{EE814F4B-8D56-47F7-A087-49ECF3A96077}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 02. OddAndEvenJumps", "Problem 02. OddAndEvenJumps\Problem 02. OddAndEvenJumps.csproj", "{EE814F4B-8D56-47F7-A087-49ECF3A96077}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. HouseWithAWindow", "Problem 3. HouseWithAWindow\Problem 3. HouseWithAWindow.csproj", "{CD78AE32-5159-4406-81F7-AEA5F05404D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 03. HouseWithAWindow", "Problem 03. HouseWithAWindow\Problem 03. HouseWithAWindow.csproj", "{CD78AE32-5159-4406-81F7-AEA5F05404D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4. NakovsMatching", "Problem 4. NakovsMatching\Problem 4. NakovsMatching.csproj", "{F0E0FB97-27AC-4D7A-8395-811CE00420D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 04. NakovsMatching", "Problem 04. NakovsMatching\Problem 04. NakovsMatching.csproj", "{F0E0FB97-27AC-4D7A-8395-811CE00420D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5. ChangeEvenBits", "Problem 5. ChangeEvenBits\Problem 5. ChangeEvenBits.csproj", "{A8808652-DFBB-45A1-85BD-CC055B529B6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 05. ChangeEvenBits", "Problem 05. ChangeEvenBits\Problem 05. ChangeEvenBits.csproj", "{A8808652-DFBB-45A1-85BD-CC055B529B6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

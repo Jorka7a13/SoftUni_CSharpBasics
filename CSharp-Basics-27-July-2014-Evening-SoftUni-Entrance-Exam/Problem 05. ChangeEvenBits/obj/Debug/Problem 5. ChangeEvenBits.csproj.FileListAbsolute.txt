@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 5. ChangeEvenBits\bin\Debug\_05.ChangeEvenBits.exe.config
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 5. ChangeEvenBits\obj\Debug\_05.ChangeEvenBits.exe
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 5. ChangeEvenBits\obj\Debug\_05.ChangeEvenBits.pdb
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 05. ChangeEvenBits\bin\Debug\_05.ChangeEvenBits.exe.config
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 05. ChangeEvenBits\obj\Debug\_05.ChangeEvenBits.exe
+D:\GitHub\SoftUni_CSharpBasics\CSharp-Basics-27-July-2014-Evening-SoftUni-Entrance-Exam\Problem 05. ChangeEvenBits\obj\Debug\_05.ChangeEvenBits.pdb
