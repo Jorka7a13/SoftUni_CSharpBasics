@@ -4,3 +4,6 @@ c:\users\user\documents\visual studio 2013\Projects\Conditional-Statements-Homew
 c:\users\user\documents\visual studio 2013\Projects\Conditional-Statements-Homework\02. BonusScore\obj\Debug\02. BonusScore.csprojResolveAssemblyReference.cache
 c:\users\user\documents\visual studio 2013\Projects\Conditional-Statements-Homework\02. BonusScore\obj\Debug\_02.BonusScore.exe
 c:\users\user\documents\visual studio 2013\Projects\Conditional-Statements-Homework\02. BonusScore\obj\Debug\_02.BonusScore.pdb
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 02. BonusScore\bin\Debug\_02.BonusScore.exe.config
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 02. BonusScore\obj\Debug\_02.BonusScore.exe
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 02. BonusScore\obj\Debug\_02.BonusScore.pdb

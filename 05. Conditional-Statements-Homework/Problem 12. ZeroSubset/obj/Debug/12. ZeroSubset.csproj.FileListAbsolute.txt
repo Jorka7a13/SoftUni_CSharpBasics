@@ -4,3 +4,6 @@ C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homew
 C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\12. ZeroSubset\obj\Debug\12. ZeroSubset.csprojResolveAssemblyReference.cache
 C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\12. ZeroSubset\obj\Debug\_12.ZeroSubset.exe
 C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\12. ZeroSubset\obj\Debug\_12.ZeroSubset.pdb
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 12. ZeroSubset\bin\Debug\_12.ZeroSubset.exe.config
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 12. ZeroSubset\obj\Debug\_12.ZeroSubset.exe
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 12. ZeroSubset\obj\Debug\_12.ZeroSubset.pdb

@@ -4,3 +4,6 @@ C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homew
 C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\11. NumberAsWords\obj\Debug\11. NumberAsWords.csprojResolveAssemblyReference.cache
 C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\11. NumberAsWords\obj\Debug\_11.NumberAsWords.exe
 C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\11. NumberAsWords\obj\Debug\_11.NumberAsWords.pdb
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 11. NumberAsWords\bin\Debug\_11.NumberAsWords.exe.config
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 11. NumberAsWords\obj\Debug\_11.NumberAsWords.exe
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 11. NumberAsWords\obj\Debug\_11.NumberAsWords.pdb

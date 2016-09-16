@@ -3,3 +3,6 @@ C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homew
 C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\08. DigitAsWord\bin\Debug\_08.DigitAsWord.pdb
 C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\08. DigitAsWord\obj\Debug\_08.DigitAsWord.exe
 C:\Users\user\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\08. DigitAsWord\obj\Debug\_08.DigitAsWord.pdb
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 08. DigitAsWord\bin\Debug\_08.DigitAsWord.exe.config
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 08. DigitAsWord\obj\Debug\_08.DigitAsWord.exe
+D:\GitHub\SoftUni_CSharpBasics\05. Conditional-Statements-Homework\Problem 08. DigitAsWord\obj\Debug\_08.DigitAsWord.pdb

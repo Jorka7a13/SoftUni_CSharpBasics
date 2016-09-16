@@ -3,39 +3,39 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. ExchangeIfGreater", "Problem 01. ExchangeIfGreater\01. ExchangeIfGreater.csproj", "{87D6B43E-C313-4349-BF12-14D9EBC209BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 01. ExchangeIfGreater", "Problem 01. ExchangeIfGreater\Problem 01. ExchangeIfGreater.csproj", "{87D6B43E-C313-4349-BF12-14D9EBC209BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. BonusScore", "Problem 02. BonusScore\02. BonusScore.csproj", "{72C1C638-FD90-4EAF-A328-43B483B23EF7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 02. BonusScore", "Problem 02. BonusScore\Problem 02. BonusScore.csproj", "{72C1C638-FD90-4EAF-A328-43B483B23EF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. CheckForPlayCard", "Problem 03. CheckForPlayCard\03. CheckForPlayCard.csproj", "{2F15367B-B602-4FCD-AC93-D9B3B08D3128}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 03. CheckForPlayCard", "Problem 03. CheckForPlayCard\Problem 03. CheckForPlayCard.csproj", "{2F15367B-B602-4FCD-AC93-D9B3B08D3128}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. MultiplicationSign", "Problem 04. MultiplicationSign\04. MultiplicationSign.csproj", "{7BB349A6-E33F-458B-A1C1-428DBD1264E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 04. MultiplicationSign", "Problem 04. MultiplicationSign\Problem 04. MultiplicationSign.csproj", "{7BB349A6-E33F-458B-A1C1-428DBD1264E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. BiggestOfThreeNumbers", "Problem 05. BiggestOfThreeNumbers\05. BiggestOfThreeNumbers.csproj", "{F4341A14-BC2D-468E-978B-A075EF302934}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 05. BiggestOfThreeNumbers", "Problem 05. BiggestOfThreeNumbers\Problem 05. BiggestOfThreeNumbers.csproj", "{F4341A14-BC2D-468E-978B-A075EF302934}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. BiggestOfFiveNumbers", "Problem 06. BiggestOfFiveNumbers\06. BiggestOfFiveNumbers.csproj", "{3D7CE2DB-F0D2-471D-83F8-F57878DC06A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 06. BiggestOfFiveNumbers", "Problem 06. BiggestOfFiveNumbers\Problem 06. BiggestOfFiveNumbers.csproj", "{3D7CE2DB-F0D2-471D-83F8-F57878DC06A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. SortThreeNumbersNestedIfs", "Problem 07. SortThreeNumbersNestedIfs\07. SortThreeNumbersNestedIfs.csproj", "{3566A36A-52C5-4A11-97DF-C494FF9752C2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 07. SortThreeNumbersNestedIfs", "Problem 07. SortThreeNumbersNestedIfs\Problem 07. SortThreeNumbersNestedIfs.csproj", "{3566A36A-52C5-4A11-97DF-C494FF9752C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. DigitAsWord", "Problem 08. DigitAsWord\08. DigitAsWord.csproj", "{86312BB6-CEF8-4D18-9401-E281703436E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 08. DigitAsWord", "Problem 08. DigitAsWord\Problem 08. DigitAsWord.csproj", "{86312BB6-CEF8-4D18-9401-E281703436E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. PlayWithIntDoubleString", "Problem 09. PlayWithIntDoubleString\09. PlayWithIntDoubleString.csproj", "{C4A3B95C-3B87-4F79-B4EB-016F8E608E2A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 09. PlayWithIntDoubleString", "Problem 09. PlayWithIntDoubleString\Problem 09. PlayWithIntDoubleString.csproj", "{C4A3B95C-3B87-4F79-B4EB-016F8E608E2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. BeerTime", "Problem 10. BeerTime\10. BeerTime.csproj", "{0BF00676-49B2-42DA-A1A1-673B2E7F569E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 10. BeerTime", "Problem 10. BeerTime\Problem 10. BeerTime.csproj", "{0BF00676-49B2-42DA-A1A1-673B2E7F569E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. NumberAsWords", "Problem 11. NumberAsWords\11. NumberAsWords.csproj", "{10B8DAFD-E872-4383-BD0B-14939E7AAF04}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 11. NumberAsWords", "Problem 11. NumberAsWords\Problem 11. NumberAsWords.csproj", "{10B8DAFD-E872-4383-BD0B-14939E7AAF04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. ZeroSubset", "Problem 12. ZeroSubset\12. ZeroSubset.csproj", "{168C3751-B677-4110-A5F1-6A3722AE6A21}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 12. ZeroSubset", "Problem 12. ZeroSubset\Problem 12. ZeroSubset.csproj", "{168C3751-B677-4110-A5F1-6A3722AE6A21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Triangle", "Problem 13. Triangle\13. Triangle.csproj", "{62B67305-3149-42ED-9A04-D1E6C0B5F122}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 13. Triangle", "Problem 13. Triangle\Problem 13. Triangle.csproj", "{62B67305-3149-42ED-9A04-D1E6C0B5F122}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Pairs", "Problem 14. Pairs\14. Pairs.csproj", "{AD8BF8A5-8457-49BE-85D8-C1A74B0100E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 14. Pairs", "Problem 14. Pairs\Problem 14. Pairs.csproj", "{AD8BF8A5-8457-49BE-85D8-C1A74B0100E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. House", "Problem 15. House\15. House.csproj", "{9977CBA9-B2FE-454E-992A-F32C02D46979}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 15. House", "Problem 15. House\Problem 15. House.csproj", "{9977CBA9-B2FE-454E-992A-F32C02D46979}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16. MagicDates", "Problem 16. MagicDates\16. MagicDates.csproj", "{BF2C1B84-142F-4B14-8856-DA1DE3C6D464}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 16. MagicDates", "Problem 16. MagicDates\Problem 16. MagicDates.csproj", "{BF2C1B84-142F-4B14-8856-DA1DE3C6D464}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17. BitKiller", "Problem 17. BitKiller\17. BitKiller.csproj", "{AFEE4AEF-71E4-4821-8837-3E57A3A1DA06}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 17. BitKiller", "Problem 17. BitKiller\Problem 17. BitKiller.csproj", "{AFEE4AEF-71E4-4821-8837-3E57A3A1DA06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
